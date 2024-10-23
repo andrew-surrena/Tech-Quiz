@@ -1,0 +1,20 @@
+[
+    {
+      "question": "Sample Question 1",
+      "answers": [
+        { "text": "Answer A", "isCorrect": false },
+        { "text": "Answer B", "isCorrect": true },
+        { "text": "Answer C", "isCorrect": false },
+        { "text": "Answer D", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Sample Question 2",
+      "answers": [
+        { "text": "Answer E", "isCorrect": false },
+        { "text": "Answer F", "isCorrect": false },
+        { "text": "Answer G", "isCorrect": true },
+        { "text": "Answer H", "isCorrect": false }
+      ]
+    }
+]
