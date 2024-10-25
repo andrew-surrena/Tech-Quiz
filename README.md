@@ -23,7 +23,7 @@ Click "Download ZIP" to access folder
 
 ### Access Cypress Tests video demo: 
 
-* https://youtu.be/rctac2HHB5I
+* https://youtu.be/XZbRI3jl7Co
 
 ## Credits
 Special thanks to the following instructors for their help:
